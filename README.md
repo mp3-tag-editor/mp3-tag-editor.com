@@ -16,7 +16,7 @@
 | 🌐 **Live Tool** | [mp3-tag-editor.com](https://mp3-tag-editor.com) |
 | 📤 **Upload & Edit** | [mp3-tag-editor.com/upload](https://mp3-tag-editor.com/upload) |
 | 📖 **How to Edit MP3 Tags** | [mp3-tag-editor.com/how-to](https://mp3-tag-editor.com/how-to) |
-| 📱 **Android App** | [Google Play Store](https://play.google.com/store/apps/details?id=com.almas.audiotagger) |
+| 📱 **Android App** | [MP3 tag editor Android](https://play.google.com/store/apps/details?id=com.almas.audiotagger) |
 | 🤖 **Telegram Bot** | [MP3 Tools Bot](https://t.me/id3toolsbot) |
 | 🔒 **Privacy Policy** | [mp3-tag-editor.com/privacy](https://mp3-tag-editor.com/privacy) |
 | 💬 **Support** | [Contact Us](https://mp3-tag-editor.com/privacy#cookies) |
